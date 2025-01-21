@@ -68,7 +68,7 @@
                     <a href="menu.php" class="secondary-button">Discover Our Flavors</a>
                 </div>
                 <div class="about-image">
-                    <img src="images/store-front.jpg" alt="Our Ice Cream Shop" class="rounded-image">
+                    <img src="images/store-front.jpg" alt="Ice Cream in scoops" class="rounded-image">
                 </div>
             </div>
         </section>
